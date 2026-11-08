@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
-    "password": "",
+    "username": "Solo_playez",
+    "password": "112255",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.site",
+    "ip": "brotherorg.play.hosting",
     "port": 25565,
     "version": "1.20.1",
     "try-creative": false
